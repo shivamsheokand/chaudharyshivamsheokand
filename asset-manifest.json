@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.fbc00891.css",
-    "main.js": "/MyPortfolio/static/js/main.c94edfb6.js",
-    "static/media/3.jpg": "/MyPortfolio/static/media/3.4751180f6ccec23ddcf5.jpg",
-    "static/media/2.jpg": "/MyPortfolio/static/media/2.42928d9d32ef452eaf93.jpg",
-    "static/media/4.jpg": "/MyPortfolio/static/media/4.42928d9d32ef452eaf93.jpg",
-    "static/media/agncy.jpg": "/MyPortfolio/static/media/agncy.35645eea71136fb6e678.jpg",
-    "static/media/5.jpg": "/MyPortfolio/static/media/5.dbb3971d21a2a6dcccdb.jpg",
-    "static/media/7.jpg": "/MyPortfolio/static/media/7.652b3938137fcc7b6a48.jpg",
-    "static/media/6.jpg": "/MyPortfolio/static/media/6.dea219f6a2e046995802.jpg",
-    "static/media/port.png": "/MyPortfolio/static/media/port.d1ae3524a676a3933c3c.png",
-    "static/media/9.jpg": "/MyPortfolio/static/media/9.fcbfeee85967bccb8d2a.jpg",
-    "index.html": "/MyPortfolio/index.html"
+    "main.css": "/chaudharyshivamsheokand/static/css/main.fbc00891.css",
+    "main.js": "/chaudharyshivamsheokand/static/js/main.02a86e4c.js",
+    "static/media/3.jpg": "/chaudharyshivamsheokand/static/media/3.4751180f6ccec23ddcf5.jpg",
+    "static/media/2.jpg": "/chaudharyshivamsheokand/static/media/2.42928d9d32ef452eaf93.jpg",
+    "static/media/4.jpg": "/chaudharyshivamsheokand/static/media/4.42928d9d32ef452eaf93.jpg",
+    "static/media/agncy.jpg": "/chaudharyshivamsheokand/static/media/agncy.35645eea71136fb6e678.jpg",
+    "static/media/5.jpg": "/chaudharyshivamsheokand/static/media/5.dbb3971d21a2a6dcccdb.jpg",
+    "static/media/7.jpg": "/chaudharyshivamsheokand/static/media/7.652b3938137fcc7b6a48.jpg",
+    "static/media/6.jpg": "/chaudharyshivamsheokand/static/media/6.dea219f6a2e046995802.jpg",
+    "static/media/port.png": "/chaudharyshivamsheokand/static/media/port.d1ae3524a676a3933c3c.png",
+    "static/media/9.jpg": "/chaudharyshivamsheokand/static/media/9.fcbfeee85967bccb8d2a.jpg",
+    "index.html": "/chaudharyshivamsheokand/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.c94edfb6.js"
+    "static/js/main.02a86e4c.js"
   ]
 }
